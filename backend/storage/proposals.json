@@ -1,0 +1,656 @@
+[
+  {
+    "id": "p-1781677160737",
+    "title": "Proposal Response - RFP-1781677160410",
+    "rfpId": "rfp-1781677160410",
+    "rfpTitle": "Unified RFP: Vertex_Industries_RFP.pdf",
+    "status": "draft",
+    "lastModified": "2026-06-17T06:19:24.396Z",
+    "createdAt": "2026-06-17T06:19:20.737Z",
+    "sections": [
+      {
+        "id": "sec-p-1781677160737-0",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "1",
+        "title": "Cover Page",
+        "content": "# COMPLETE SALES PROPOSAL & DESIGN BRIEF\n\n**Prepared For**: Acme Corp Procurement Steering Board\n**Subject**: Response to Single Sign-On & Multi-Cloud Governance Gateway\n**Date**: June 2026\n**Status**: Enterprise Draft Release v2.4\n**Author**: Sales Advisory & Consulting Architect Teams\n\n---\n*CONFIDENTIAL & CORPORATE PROPRIETARY INFORMATION*",
+        "type": "Cover Page",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781677160737-1",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "2",
+        "title": "Executive Summary",
+        "content": "[Click Generate on Companion context menu to build out complete Executive Summary using advanced corporate RAG intelligence.]",
+        "type": "Executive Summary",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781677160737-2",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "3",
+        "title": "Understanding of Requirements",
+        "content": "[Click Generate on Companion context menu to build out complete Understanding of Requirements using advanced corporate RAG intelligence.]",
+        "type": "Understanding of Requirements",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781677160737-3",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "4",
+        "title": "Proposed Solution",
+        "content": "[Click Generate on Companion context menu to build out complete Proposed Solution using advanced corporate RAG intelligence.]",
+        "type": "Proposed Solution",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781677160737-4",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "5",
+        "title": "Compliance Matrix",
+        "content": "[Click Generate on Companion context menu to build out complete Compliance Matrix using advanced corporate RAG intelligence.]",
+        "type": "Compliance Matrix",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781677160737-5",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "6",
+        "title": "Pricing & Commercial Terms",
+        "content": "[Click Generate on Companion context menu to build out complete Pricing & Commercial Terms using advanced corporate RAG intelligence.]",
+        "type": "Pricing & Commercial Terms",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781677160737-6",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "7",
+        "title": "Implementation Plan",
+        "content": "[Click Generate on Companion context menu to build out complete Implementation Plan using advanced corporate RAG intelligence.]",
+        "type": "Implementation Plan",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781677160737-7",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "8",
+        "title": "Team & Credentials",
+        "content": "[Click Generate on Companion context menu to build out complete Team & Credentials using advanced corporate RAG intelligence.]",
+        "type": "Team & Credentials",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781677160737-8",
+        "proposalId": "p-1781677160737",
+        "sectionNumber": "9",
+        "title": "Appendices",
+        "content": "[Click Generate on Companion context menu to build out complete Appendices using advanced corporate RAG intelligence.]",
+        "type": "Appendices",
+        "status": "pending"
+      }
+    ],
+    "complianceResults": [
+      {
+        "id": "comp-p-1781677160737-0",
+        "requirementCode": "REQ-01",
+        "requirementText": "The vendor solution must execute authentication and access reviews seamlessly across secure AD FS portals.",
+        "isMandatory": true,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      },
+      {
+        "id": "comp-p-1781677160737-1",
+        "requirementCode": "REQ-02",
+        "requirementText": "System infrastructure must ensure response latencies below 250ms for live workspace components.",
+        "isMandatory": true,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      },
+      {
+        "id": "comp-p-1781677160737-2",
+        "requirementCode": "REQ-03",
+        "requirementText": "Vendor must provide standard localized onboarding training tutorials for project coordinators.",
+        "isMandatory": false,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      }
+    ],
+    "pricingSummary": {
+      "oneTimeFee": 25000,
+      "recurringFee": 2400,
+      "billingCycle": "Yearly",
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "p-1781676359369",
+    "title": "Proposal Response - RFP-1781676358694",
+    "rfpId": "rfp-1781676358694",
+    "rfpTitle": "Unified RFP: Vertex_Industries_RFP.pdf",
+    "status": "draft",
+    "lastModified": "2026-06-17T06:19:10.603Z",
+    "createdAt": "2026-06-17T06:05:59.369Z",
+    "sections": [
+      {
+        "id": "sec-p-1781676359369-0",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "1",
+        "title": "Cover Page",
+        "content": "# COMPLETE SALES PROPOSAL & DESIGN BRIEF\n\n**Prepared For**: Acme Corp Procurement Steering Board\n**Subject**: Response to Single Sign-On & Multi-Cloud Governance Gateway\n**Date**: June 2026\n**Status**: Enterprise Draft Release v2.4\n**Author**: Sales Advisory & Consulting Architect Teams\n\n---\n*CONFIDENTIAL & CORPORATE PROPRIETARY INFORMATION*",
+        "type": "Cover Page",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781676359369-1",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "2",
+        "title": "Executive Summary",
+        "content": "[Click Generate on Companion context menu to build out complete Executive Summary using advanced corporate RAG intelligence.]",
+        "type": "Executive Summary",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676359369-2",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "3",
+        "title": "Understanding of Requirements",
+        "content": "[Click Generate on Companion context menu to build out complete Understanding of Requirements using advanced corporate RAG intelligence.]",
+        "type": "Understanding of Requirements",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676359369-3",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "4",
+        "title": "Proposed Solution",
+        "content": "[Click Generate on Companion context menu to build out complete Proposed Solution using advanced corporate RAG intelligence.]",
+        "type": "Proposed Solution",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676359369-4",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "5",
+        "title": "Compliance Matrix",
+        "content": "[Click Generate on Companion context menu to build out complete Compliance Matrix using advanced corporate RAG intelligence.]",
+        "type": "Compliance Matrix",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676359369-5",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "6",
+        "title": "Pricing & Commercial Terms",
+        "content": "[Click Generate on Companion context menu to build out complete Pricing & Commercial Terms using advanced corporate RAG intelligence.]",
+        "type": "Pricing & Commercial Terms",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676359369-6",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "7",
+        "title": "Implementation Plan",
+        "content": "[Click Generate on Companion context menu to build out complete Implementation Plan using advanced corporate RAG intelligence.]",
+        "type": "Implementation Plan",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676359369-7",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "8",
+        "title": "Team & Credentials",
+        "content": "[Click Generate on Companion context menu to build out complete Team & Credentials using advanced corporate RAG intelligence.]",
+        "type": "Team & Credentials",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676359369-8",
+        "proposalId": "p-1781676359369",
+        "sectionNumber": "9",
+        "title": "Appendices",
+        "content": "[Click Generate on Companion context menu to build out complete Appendices using advanced corporate RAG intelligence.]",
+        "type": "Appendices",
+        "status": "pending"
+      }
+    ],
+    "complianceResults": [
+      {
+        "id": "comp-p-1781676359369-0",
+        "requirementCode": "REQ-01",
+        "requirementText": "The vendor solution must execute authentication and access reviews seamlessly across secure AD FS portals.",
+        "isMandatory": true,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      },
+      {
+        "id": "comp-p-1781676359369-1",
+        "requirementCode": "REQ-02",
+        "requirementText": "System infrastructure must ensure response latencies below 250ms for live workspace components.",
+        "isMandatory": true,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      },
+      {
+        "id": "comp-p-1781676359369-2",
+        "requirementCode": "REQ-03",
+        "requirementText": "Vendor must provide standard localized onboarding training tutorials for project coordinators.",
+        "isMandatory": false,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      }
+    ],
+    "pricingSummary": {
+      "oneTimeFee": 25000,
+      "recurringFee": 2400,
+      "billingCycle": "Yearly",
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "p-1781676142958",
+    "title": "Proposal Response - RFP-1781676142310",
+    "rfpId": "rfp-1781676142310",
+    "rfpTitle": "Unified RFP: Vertex_Industries_RFP.pdf",
+    "status": "draft",
+    "lastModified": "2026-06-17T06:04:43.828Z",
+    "createdAt": "2026-06-17T06:02:22.958Z",
+    "sections": [
+      {
+        "id": "sec-p-1781676142958-0",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "1",
+        "title": "Cover Page",
+        "content": "# COMPLETE SALES PROPOSAL & DESIGN BRIEF\n\n**Prepared For**: Acme Corp Procurement Steering Board\n**Subject**: Response to Single Sign-On & Multi-Cloud Governance Gateway\n**Date**: June 2026\n**Status**: Enterprise Draft Release v2.4\n**Author**: Sales Advisory & Consulting Architect Teams\n\n---\n*CONFIDENTIAL & CORPORATE PROPRIETARY INFORMATION*",
+        "type": "Cover Page",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781676142958-1",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "2",
+        "title": "Executive Summary",
+        "content": "[Click Generate on Companion context menu to build out complete Executive Summary using advanced corporate RAG intelligence.]",
+        "type": "Executive Summary",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676142958-2",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "3",
+        "title": "Understanding of Requirements",
+        "content": "[Click Generate on Companion context menu to build out complete Understanding of Requirements using advanced corporate RAG intelligence.]",
+        "type": "Understanding of Requirements",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676142958-3",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "4",
+        "title": "Proposed Solution",
+        "content": "[Click Generate on Companion context menu to build out complete Proposed Solution using advanced corporate RAG intelligence.]",
+        "type": "Proposed Solution",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676142958-4",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "5",
+        "title": "Compliance Matrix",
+        "content": "[Click Generate on Companion context menu to build out complete Compliance Matrix using advanced corporate RAG intelligence.]",
+        "type": "Compliance Matrix",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676142958-5",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "6",
+        "title": "Pricing & Commercial Terms",
+        "content": "[Click Generate on Companion context menu to build out complete Pricing & Commercial Terms using advanced corporate RAG intelligence.]",
+        "type": "Pricing & Commercial Terms",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676142958-6",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "7",
+        "title": "Implementation Plan",
+        "content": "[Click Generate on Companion context menu to build out complete Implementation Plan using advanced corporate RAG intelligence.]",
+        "type": "Implementation Plan",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676142958-7",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "8",
+        "title": "Team & Credentials",
+        "content": "[Click Generate on Companion context menu to build out complete Team & Credentials using advanced corporate RAG intelligence.]",
+        "type": "Team & Credentials",
+        "status": "pending"
+      },
+      {
+        "id": "sec-p-1781676142958-8",
+        "proposalId": "p-1781676142958",
+        "sectionNumber": "9",
+        "title": "Appendices",
+        "content": "[Click Generate on Companion context menu to build out complete Appendices using advanced corporate RAG intelligence.]",
+        "type": "Appendices",
+        "status": "pending"
+      }
+    ],
+    "complianceResults": [
+      {
+        "id": "comp-p-1781676142958-0",
+        "requirementCode": "REQ-01",
+        "requirementText": "The vendor solution must execute authentication and access reviews seamlessly across secure AD FS portals.",
+        "isMandatory": true,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      },
+      {
+        "id": "comp-p-1781676142958-1",
+        "requirementCode": "REQ-02",
+        "requirementText": "System infrastructure must ensure response latencies below 250ms for live workspace components.",
+        "isMandatory": true,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      },
+      {
+        "id": "comp-p-1781676142958-2",
+        "requirementCode": "REQ-03",
+        "requirementText": "Vendor must provide standard localized onboarding training tutorials for project coordinators.",
+        "isMandatory": false,
+        "status": "Partially Compliant",
+        "responseExcerpt": "Currently reviewing technical architecture design matrix parameters.",
+        "gapAnalysis": "Awaiting final engineering specs validation."
+      }
+    ],
+    "pricingSummary": {
+      "oneTimeFee": 25000,
+      "recurringFee": 2400,
+      "billingCycle": "Yearly",
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "p-1781674639477",
+    "title": "Proposal Response - RFP-1781674638712",
+    "rfpId": "rfp-1781674638712",
+    "rfpTitle": "Unified RFP: Vertex_Industries_RFP.pdf",
+    "status": "draft",
+    "lastModified": "2026-06-17T06:01:08.972Z",
+    "createdAt": "2026-06-17T05:37:19.477Z",
+    "sections": [
+      {
+        "id": "sec-p-1781674639477-0",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "1",
+        "title": "Cover Page",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n# COMPLETE SALES PROPOSAL & DESIGN BRIEF\n\n**Prepared For**: Acme Corp Procurement Steering Board\n**Subject**: Response to Single Sign-On & Multi-Cloud Governance Gateway\n**Date**: June 2026\n**Status**: Enterprise Draft Release v2.4\n**Author**: Sales Advisory & Consulting Architect Teams\n\n---\n*CONFIDENTIAL & CORPORATE PROPRIETARY INFORMATION*",
+        "type": "Cover Page",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781674639477-1",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "2",
+        "title": "Executive Summary",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 1. Executive Summary\n\nBusinesses face deep operational overhead managing decentralized authorization rules across modern ecosystems. By deploying ProposalAI's **Enterprise Security Governance Gateway**, Acme Corp streamlines onboarding structures while fully shielding server assets from structural weaknesses.\n\nOur system centralizes authentication, yields deep performance transparency, and complies automatically with compliance rules. Combined with our **Gold-Shield Premium support tier** maintaining 99.99% operational metrics, Acme Corp secures a modern, stress-free path to scale. Furthermore, our seasoned advisory engineering team ensures a smooth multi-cloud gateway integration that aligns perfectly with your timeline and performance criteria.",
+        "type": "Executive Summary",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781674639477-2",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "3",
+        "title": "Understanding of Requirements",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 2. Understanding of Requirements\n\nAcme Corp's RFP specifies several high-priority checkpoints, which we have cataloged and verified:\n\n*   **Requirement REQ-01 (High)**: *The vendor solution must execute authentication and access reviews seamlessly across secure AD FS portals.*\n*   **Requirement REQ-02 (High)**: *System infrastructure must ensure response latencies below 250ms for live workspace components.*\n*   **Requirement REQ-03 (Medium)**: *Vendor must provide standard localized onboarding training tutorials for project coordinators.*\n\nOur engineering squads have executed technical verification runs against each of these items. We guarantee 100% compliant delivery across every specified baseline and operational standard outlined in the bid.",
+        "type": "Understanding of Requirements",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781674639477-3",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "4",
+        "title": "Proposed Solution",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 3. Proposed Solution Architecture\n\nWe deliver our specialized flagship solution—**ProposalAI Active Security Gateway V2**. It acts as a centralized gatekeeper for microservices proxying, routing requests securely dynamically and handling telemetry transparently.\n\n#### Core Architectural Layout\nBelow is the multi-cloud authentication and gateway data flow structure:",
+        "type": "Proposed Solution",
+        "status": "completed",
+        "mermaidDiagram": "graph TD\n  A[Client Request / API Gate] -->|HTTPS Port 443| B(SSO Gateway Active Node)\n  B -->|Validate SAML 2.0 / AD FS| C{Active Directory AD}\n  C -->|Authorized Session Token| D[Dynamic Proxy Router]\n  D -->|Load Balancer Redundancy| E[Multi-Cloud Server Clusters]\n  E -->|Telemetry Logging| F[Dynamic Visualizers SVGs]"
+      },
+      {
+        "id": "sec-p-1781674639477-4",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "5",
+        "title": "Compliance Matrix",
+        "content": "# Compliance Matrix: Proposal Response - RFP-1781674638712\n\nThis Compliance Matrix provides a detailed, point-by-point alignment between the requirements outlined in the Vertex Industries RFP (Unified RFP: Vertex_Industries_RFP.pdf) and the corresponding capabilities of the ProposalAI enterprise solution. ProposalAI is fully compliant with all technical, operational, and financial specifications requested by Vertex Industries.\n\n### Enterprise Requirements Alignment Matrix\n\n| RFP Section / Requirement | Compliance Status | Proposed Solution & Technical Specification | Source Reference |\n| :--- | :--- | :--- | :--- |\n| **Identity & Access Management**<br>Support for secure SSO, SAML 2.0, OIDC, and multi-identity provider environments. | **Fully Compliant** | The ProposalAI Security Enterprise Gateway Enterprise-V2 features dual-shield JWT verification endpoints and native integration with Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems. | ProposalAI Product Spec Sheet: Security Enterprise Gateway Enterprise-V2 |\n| **High Availability & SLA**<br>Guaranteed system uptime and robust load balancing under peak enterprise traffic. | **Fully Compliant** | Our active cluster load balancer delivers automated scale triggers that maintain a 99.999% high availability SLA, built on top-tier server architecture. | ProposalAI Product Spec Sheet: Security Enterprise Gateway Enterprise-V2 |\n| **Deployment Timeline**<br>Rapid, structured onboarding and deployment within a strict 30-day window. | **Fully Compliant** | Implementation is executed via a 4-phase strategic checkpoint pipeline spanning exactly 30 days, including environment discovery, gateway integration, pen-testing, and staff training. | Standard Rapid Transition & Multi-Phased Deployment Blueprint |\n| **Commercial & Volume Pricing**<br>Transparent pricing structure with volume discounts for large-scale active directory deployments. | **Fully Compliant** | Standard core corporate subscription includes a $12,000/annum fixed setup fee and a $150/user/month agent fee. Volume tiers over 500 active directories receive a 20% discount ($120/user/month). | 2026 Core Subscription Matrix and Standard Tier Discounts |\n\n### Detailed Compliance Narrative and Implementation Methodology\n\n#### Technical Architecture and Security Compliance\nThe ProposalAI Security Enterprise Gateway Enterprise-V2 is engineered to meet the rigorous security standards of Vertex Industries. By utilizing dual-shield JSON Web Token (JWT) verification endpoints, the platform ensures that all transactional traffic is cryptographically validated and secure from unauthorized interception. Native compatibility with industry-standard identity providers—including Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC—guarantees that Vertex Industries can leverage its existing identity management infrastructure without requiring complex custom refactoring.\n\n#### Deployment and Operational Enablement\nTo ensure zero operational disruption, ProposalAI employs the Standard Rapid Transition & Multi-Phased Deployment Blueprint. This structured, 30-day transition pipeline is divided into four distinct, highly controlled phases:\n*   **Phase 1 (Days 1-7):** Focuses on comprehensive Enterprise Environment Discovery to map existing network topologies.\n*   **Phase 2 (Days 8-15):** Executes the seamless integration of Active Gateways and SAML endpoints.\n*   **Phase 3 (Days 16-22):** Conducts a rigorous Core Compliance dry run alongside comprehensive penetration testing to validate security integrity.\n*   **Phase 4 (Days 23-30):** Finalizes the Production Go-Live and delivers tailored Staff Enablement Training courses to ensure operational readiness.\n\n#### Commercial Structure and Enterprise Discounting\nProposalAI offers a highly transparent and predictable cost model designed to scale with Vertex Industries. The financial framework consists of a fixed setup fee of $12,000 per annum for secure gateway provisioning, combined with a Multi-Cloud controller agent fee billed at a baseline of $150 per user per month. Recognizing the scale of Vertex Industries, we apply a custom 20% volume discount on runtime configurations for deployments exceeding 500 active directories, successfully reducing the ongoing licensing overhead to $120 per user per month.",
+        "type": "Compliance Matrix",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781674639477-5",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "6",
+        "title": "Pricing & Commercial Terms",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 5. Pricing & Commercial Terms\n\nBased on your volume expectations, we propose our Enterprise Tier pricing outline with annual incentives:\n\n1.  **One-Time Infrastructure Setup Fee**: $25,000 (Covers server installation, design review, and custom active directory integrations).\n2.  **Annual Enterprise Licensing (up to 1,000 active gateways/users)**: $120/user/month (Reflects our standard 20% volume incentive reduction, down from a standard $150/user/month).\n3.  **Gold-Shield SLA Premium Operations Contract**: $2,400/annum.\n\n*All billing follows a standard Net-30 annual cycle in USD, and all quoted rates will remain fixed for the duration of the multi-year contract.*",
+        "type": "Pricing & Commercial Terms",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781674639477-6",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "7",
+        "title": "Implementation Plan",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 6. Implementation Plan & Milestones\n\nWe guarantee client success in exactly **30 business days** post contract ratification through 4 sequential deployment stages:\n\n*   **Checkpoint A (Days 1-7)**: Operational Discovery and Environment Pen-Tests.\n*   **Checkpoint B (Days 8-15)**: Active SAML Gateways Integration & Active Directory syncs.\n*   **Checkpoint C (Days 16-22)**: Dry run auditing & mock outage tests.\n*   **Checkpoint D (Days 23-30)**: Go-Live authorization, Staff training, and Premium SLA handover.",
+        "type": "Implementation Plan",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781674639477-7",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "8",
+        "title": "Team & Credentials",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 7. Core Team and Proven Credentials\n\nOur advisory engineers secure combined decades of industry experience delivering critical governance assets:\n\n*   **Manish (Principal Architect)**: Guided 40+ global cloud gateway setups with a focus on enterprise security overlays.\n*   **Marcus Vance (Compliance Director)**: Certified CISSP lead supervising security audits and SOC 2 Type II compliance procedures.\n*   **David Chen (Operations Liaison)**: Oversees critical SLA support operations and coordinates 24/7 technical assistance.",
+        "type": "Team & Credentials",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781674639477-8",
+        "proposalId": "p-1781674639477",
+        "sectionNumber": "9",
+        "title": "Appendices",
+        "content": "[Click Generate on Companion context menu to build out complete Appendices using advanced corporate RAG intelligence.]",
+        "type": "Appendices",
+        "status": "pending"
+      }
+    ],
+    "complianceResults": [
+      {
+        "id": "comp-p-1781674639477-0",
+        "requirementCode": "REQ-01",
+        "requirementText": "The vendor solution must execute authentication and access reviews seamlessly across secure AD FS portals.",
+        "isMandatory": true,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      },
+      {
+        "id": "comp-p-1781674639477-1",
+        "requirementCode": "REQ-02",
+        "requirementText": "System infrastructure must ensure response latencies below 250ms for live workspace components.",
+        "isMandatory": true,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      },
+      {
+        "id": "comp-p-1781674639477-2",
+        "requirementCode": "REQ-03",
+        "requirementText": "Vendor must provide standard localized onboarding training tutorials for project coordinators.",
+        "isMandatory": false,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      }
+    ],
+    "pricingSummary": {
+      "oneTimeFee": 25000,
+      "recurringFee": 2400,
+      "billingCycle": "Yearly",
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "p-1781673825092",
+    "title": "Proposal Response - RFP-1781673819948",
+    "rfpId": "rfp-1781673819948",
+    "rfpTitle": "Unified RFP: Vertex_Industries_RFP.pdf",
+    "status": "draft",
+    "lastModified": "2026-06-17T05:36:28.350Z",
+    "createdAt": "2026-06-17T05:23:45.092Z",
+    "sections": [
+      {
+        "id": "sec-p-1781673825092-0",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "1",
+        "title": "Cover Page",
+        "content": "# PROPOSAL RESPONSE: RFP-1781673819948\n## In Response to Unified RFP: Vertex_Industries_RFP.pdf\n\n**Prepared For:** Vertex Industries Evaluation Committee  \n**Prepared By:** ProposalAI Enterprise Solutions Group  \n**Date of Submission:** October 24, 2024  \n**Document Classification:** Confidential / Proprietary  \n\n---\n\n### Executive Transmittal & Commitment Statement\n\nProposalAI is pleased to submit this formal response to Vertex Industries regarding the Unified RFP: Vertex_Industries_RFP.pdf. We present our industry-leading Security Enterprise Gateway Enterprise-V2, a solution engineered to meet and exceed the rigorous security, scalability, and high-availability requirements outlined in your solicitation. Our proposed architecture delivers robust identity federation, seamless multi-cloud controller agent deployment, and a rapid, low-risk transition methodology designed to ensure operational continuity.\n\n### Proposal Metadata & Reference Information\n\n| Attribute | Specification Details |\n| :--- | :--- |\n| **Proposal Title** | Proposal Response - RFP-1781673819948 |\n| **Target RFP** | Unified RFP: Vertex_Industries_RFP.pdf |\n| **Primary Solution** | ProposalAI Security Enterprise Gateway Enterprise-V2 |\n| **Core Architecture** | Dual-Shield JWT Verification & Active Cluster Load Balancing |\n| **Target Availability** | 99.999% High Availability SLA |\n\n---\n\n### Solution Architecture & Commercial Framework\n\nThe ProposalAI Security Enterprise Gateway Enterprise-V2 is built upon a top-tier server architecture featuring native integration with Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems. To guarantee continuous uptime, the platform utilizes an active cluster load balancer equipped with auto-scale triggers that maintain a 99.999% high-availability threshold under peak enterprise workloads. \n\nOur commercial model is structured to provide maximum value and transparency. The standard core corporate subscription requires a fixed setup fee of $12,000 per annum for secure gateway provision. The Multi-Cloud controller agent is billed at a standard rate of $150 per user per month. However, for enterprise volume tiers exceeding 500 active directories, Vertex Industries will receive a custom 20% discount on runtime configurations, reducing the licensing overhead to $120 per user per month.\n\n### Standard Rapid Transition & Multi-Phased Deployment Blueprint\n\nTo ensure a seamless transition, ProposalAI employs a structured, four-phase deployment pipeline executed over a strict 30-day timeline, as detailed in the schedule below:\n\n| Phase | Timeline | Strategic Focus & Deliverables |\n| :--- | :--- | :--- |\n| **Phase 1** | Days 1–7 | **Enterprise Environment Discovery:** Comprehensive assessment of current infrastructure, network topologies, and identity stores. |\n| **Phase 2** | Days 8–15 | **Integration of Active Gateways & SAML Endpoints:** Establishing secure gateway connections and federating identity providers. |\n| **Phase 3** | Days 16–22 | **Core Compliance Dry Run & Pen-Tests:** Rigorous security validation, vulnerability scanning, and compliance auditing. |\n| **Phase 4** | Days 23–30 | **Production Go-Live & Staff Enablement:** Final cutover to production environments and execution of administrator training courses. |\n\nThis proposal represents a binding commitment by ProposalAI to deliver the specified software, licensing, and professional services in accordance with the terms, conditions, and technical specifications described herein. We look forward to partnering with Vertex Industries to secure and accelerate your digital enterprise.",
+        "type": "Cover Page",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-1",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "2",
+        "title": "Executive Summary",
+        "content": "> 🌐 **Gemini API Offline Fallback**: Unable to reach live Gemini models (Error: Gemini API call timed out after 30 seconds due to latency or invalid token). To keep your work unblocked, we have rendered our standard authenticated corporate draft content below.\n\n### 1. Executive Summary\n\nBusinesses face deep operational overhead managing decentralized authorization rules across modern ecosystems. By deploying ProposalAI's **Enterprise Security Governance Gateway**, Acme Corp streamlines onboarding structures while fully shielding server assets from structural weaknesses.\n\nOur system centralizes authentication, yields deep performance transparency, and complies automatically with compliance rules. Combined with our **Gold-Shield Premium support tier** maintaining 99.99% operational metrics, Acme Corp secures a modern, stress-free path to scale. Furthermore, our seasoned advisory engineering team ensures a smooth multi-cloud gateway integration that aligns perfectly with your timeline and performance criteria.",
+        "type": "Executive Summary",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-2",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "3",
+        "title": "Understanding of Requirements",
+        "content": "# Understanding of Requirements\n\nVertex Industries requires a highly secure, resilient, and rapidly deployable multi-cloud gateway solution to streamline identity federation and access management across its enterprise environment. In responding to RFP-1781673819948, our organization has aligned its technical capabilities, deployment methodologies, and commercial structures to directly address the stringent operational demands outlined by Vertex Industries. \n\n### Technical and Security Alignment\n\nTo satisfy the rigorous security and high-availability demands of Vertex Industries, the proposed solution utilizes the ProposalAI Security Enterprise Gateway Enterprise-V2. This enterprise-grade gateway is engineered on top-tier server architecture to deliver maximum uptime and robust cryptographic validation. It features dual-shield JSON Web Token (JWT) verification endpoints to prevent unauthorized access and ensure data integrity at every boundary. \n\nFurthermore, the gateway provides native, out-of-the-box integration with industry-standard identity providers, including Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems. To guarantee continuous operational resilience, the platform incorporates an active cluster load balancer equipped with auto-scale triggers, consistently maintaining a 99.999% high-availability SLA under peak enterprise workloads.\n\n### Structured Deployment Methodology\n\nWe recognize that minimizing operational disruption during implementation is a critical requirement for Vertex Industries. Consequently, our deployment strategy adheres strictly to the Standard Rapid Transition & Multi-Phased Deployment Blueprint. This proven framework executes across four strategic checkpoints over a thirty-day period to ensure a seamless transition.\n\n| Deployment Phase | Timeline | Operational Focus and Deliverables |\n| :--- | :--- | :--- |\n| **Phase 1** | Days 1–7 | **Enterprise Environment Discovery:** Comprehensive assessment of the existing network topology and identity infrastructure. |\n| **Phase 2** | Days 8–15 | **Integration of Active Gateways & SAML Endpoints:** Active deployment of gateway instances and federation with designated identity providers. |\n| **Phase 3** | Days 16–22 | **Core Compliance Dry Run & Pen-Tests:** Rigorous security validation, compliance auditing, and penetration testing to ensure zero vulnerabilities. |\n| **Phase 4** | Days 23–30 | **Production Go-Live & Staff Enablement:** Final transition to the live production environment accompanied by comprehensive administrator and user training courses. |\n\n### Commercial and Licensing Structure\n\nOur commercial model is structured to provide Vertex Industries with predictable budgeting alongside significant volume-based cost efficiencies. In accordance with the 2026 Core Subscription Matrix and Standard Tier Discounts, the financial framework consists of a fixed annual setup fee combined with scalable user licensing. \n\nBecause Vertex Industries operates an enterprise-scale environment exceeding 500 active directories, the engagement qualifies for our custom volume discount tier. This tier applies a twenty percent discount to the runtime configurations of the Multi-Cloud controller agent, significantly reducing ongoing operational expenditures.\n\n| Cost Component | Standard Pricing | Vertex Industries Discounted Pricing | Billing Frequency |\n| :--- | :--- | :--- | :--- |\n| **Secure Gateway Provisioning** | $12,000 | $12,000 (Fixed Setup Fee) | Annually |\n| **Multi-Cloud Controller Agent** | $150 per user | $120 per user (20% Enterprise Discount) | Monthly |\n\nBy combining the advanced security features of the Enterprise-V2 gateway, a structured thirty-day deployment blueprint, and a highly optimized cost model, our proposed solution fully satisfies the technical, operational, and financial requirements of Vertex Industries.",
+        "type": "Understanding of Requirements",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-3",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "4",
+        "title": "Proposed Solution",
+        "content": "# Compliance Matrix: Proposal Response - RFP-1781673819948\n\nProposalAI has conducted a rigorous review of the technical, operational, and financial requirements outlined in the Vertex Industries RFP (Unified RFP: Vertex_Industries_RFP.pdf). The compliance matrix below demonstrates our complete alignment with your enterprise standards, utilizing the ProposalAI Security Enterprise Gateway Enterprise-V2 architecture and our standardized deployment methodologies.\n\n### Enterprise Requirements and Compliance Mapping\n\n| RFP Section / Requirement | Compliance Status | Proposed Solution Technical Capability | Source Document Reference |\n| :--- | :--- | :--- | :--- |\n| **Identity & Access Management** <br>Support for modern federated identity, single sign-on (SSO), and secure token validation. | **Fully Compliant** | Native integration with Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems. Features dual-shield JWT verification endpoints. | ProposalAI Product Spec Sheet: Security Enterprise Gateway Enterprise-V2 |\n| **High Availability & SLA** <br>Guaranteed system uptime and automated traffic management under peak loads. | **Fully Compliant** | Active cluster load balancer delivers auto-scale triggers maintaining a 99.999% high availability threshold. | ProposalAI Product Spec Sheet: Security Enterprise Gateway Enterprise-V2 |\n| **Rapid Deployment Timeline** <br>Structured onboarding and deployment completed within a strict 30-day window. | **Fully Compliant** | A structured 4-phase deployment pipeline executing across 30 days, covering discovery, integration, testing, and training. | Standard Rapid Transition & Multi-Phased Deployment Blueprint |\n| **Commercial Licensing** <br>Transparent pricing models with volume-based discounting for large-scale directory integrations. | **Fully Compliant** | Fixed setup fee of $12,000/annum with a $150/user/month agent fee, discounted to $120/user/month for over 500 active directories. | 2026 Core Subscription Matrix and Standard Tier Discounts |\n\n---\n\n### Detailed Compliance and Implementation Narrative\n\n#### Technical Alignment and Gateway Security\nThe ProposalAI Security Enterprise Gateway Enterprise-V2 is engineered to meet the stringent security posture required by Vertex Industries. By utilizing dual-shield JWT verification endpoints, the gateway ensures that all incoming and outgoing traffic is cryptographically validated, mitigating the risk of token spoofing or man-in-the-middle attacks. Our native integration capabilities guarantee seamless interoperability with your existing identity providers, including Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems, eliminating the need for custom connector development. Furthermore, the active cluster load balancer guarantees a 99.999% high availability SLA by dynamically triggering auto-scale events during traffic surges.\n\n#### Structured 30-Day Deployment Blueprint\nTo ensure zero operational downtime, ProposalAI employs a standard deployment pipeline executed across four strategic checkpoints over a 30-day period:\n*   **Phase 1 (Days 1-7): Enterprise Environment Discovery.** Our engineering team conducts a comprehensive assessment of the Vertex Industries infrastructure to map all dependencies.\n*   **Phase 2 (Days 8-15): Integration of Active Gateways & SAML Endpoints.** Active gateways are provisioned and federated with your designated identity providers.\n*   **Phase 3 (Days 16-22): Core Compliance Dry Run & Pen-Tests.** Rigorous security dry runs and penetration testing are executed to validate the integrity of the perimeter.\n*   **Phase 4 (Days 23-30): Production Go-Live and Staff Enablement.** Final cutover is executed, accompanied by comprehensive staff enablement training courses to ensure operational readiness.\n\n#### Commercial Structure and Volume Discounting\nOur financial model is structured to provide maximum predictability and value. The standard core corporate subscription requires a fixed setup fee of $12,000 per annum for secure gateway provision. The Multi-Cloud controller agent is billed at a baseline rate of $150 per user per month. However, recognizing the scale of Vertex Industries, enterprise volume tiers exceeding 500 active directories automatically qualify for a custom 20% discount on runtime configurations. This volume discount successfully reduces the ongoing licensing overhead to $120 per user per month, ensuring a highly cost-effective total cost of",
+        "type": "Proposed Solution",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-4",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "5",
+        "title": "Compliance Matrix",
+        "content": "# Compliance Matrix: Proposal Response - RFP-1781673819948\n\nProposalAI has conducted a rigorous review of the technical, operational, and financial requirements outlined in the Vertex Industries RFP (Unified RFP: Vertex_Industries_RFP.pdf). The compliance matrix below demonstrates our complete alignment with your enterprise standards, utilizing the ProposalAI Security Enterprise Gateway Enterprise-V2 architecture and our standardized deployment methodologies.\n\n### Enterprise Requirements and Compliance Mapping\n\n| RFP Section / Requirement | Compliance Status | Proposed Solution Technical Capability | Source Document Reference |\n| :--- | :--- | :--- | :--- |\n| **Identity & Access Management** <br>Support for modern federated identity, single sign-on (SSO), and secure token validation. | **Fully Compliant** | Native integration with Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems. Features dual-shield JWT verification endpoints. | ProposalAI Product Spec Sheet: Security Enterprise Gateway Enterprise-V2 |\n| **High Availability & SLA** <br>Guaranteed system uptime and automated traffic management under peak loads. | **Fully Compliant** | Active cluster load balancer delivers auto-scale triggers maintaining a 99.999% high availability threshold. | ProposalAI Product Spec Sheet: Security Enterprise Gateway Enterprise-V2 |\n| **Rapid Deployment Timeline** <br>Structured onboarding and deployment completed within a strict 30-day window. | **Fully Compliant** | A structured 4-phase deployment pipeline executing across 30 days, covering discovery, integration, testing, and training. | Standard Rapid Transition & Multi-Phased Deployment Blueprint |\n| **Commercial Licensing** <br>Transparent pricing models with volume-based discounting for large-scale directory integrations. | **Fully Compliant** | Fixed setup fee of $12,000/annum with a $150/user/month agent fee, discounted to $120/user/month for over 500 active directories. | 2026 Core Subscription Matrix and Standard Tier Discounts |\n\n---\n\n### Detailed Compliance and Implementation Narrative\n\n#### Technical Alignment and Gateway Security\nThe ProposalAI Security Enterprise Gateway Enterprise-V2 is engineered to meet the stringent security posture required by Vertex Industries. By utilizing dual-shield JWT verification endpoints, the gateway ensures that all incoming and outgoing traffic is cryptographically validated, mitigating the risk of token spoofing or man-in-the-middle attacks. Our native integration capabilities guarantee seamless interoperability with your existing identity providers, including Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems, eliminating the need for custom connector development. Furthermore, the active cluster load balancer guarantees a 99.999% high availability SLA by dynamically triggering auto-scale events during traffic surges.\n\n#### Structured 30-Day Deployment Blueprint\nTo ensure zero operational downtime, ProposalAI employs a standard deployment pipeline executed across four strategic checkpoints over a 30-day period:\n*   **Phase 1 (Days 1-7): Enterprise Environment Discovery.** Our engineering team conducts a comprehensive assessment of the Vertex Industries infrastructure to map all dependencies.\n*   **Phase 2 (Days 8-15): Integration of Active Gateways & SAML Endpoints.** Active gateways are provisioned and federated with your designated identity providers.\n*   **Phase 3 (Days 16-22): Core Compliance Dry Run & Pen-Tests.** Rigorous security dry runs and penetration testing are executed to validate the integrity of the perimeter.\n*   **Phase 4 (Days 23-30): Production Go-Live and Staff Enablement.** Final cutover is executed, accompanied by comprehensive staff enablement training courses to ensure operational readiness.\n\n#### Commercial Structure and Volume Discounting\nOur financial model is structured to provide maximum predictability and value. The standard core corporate subscription requires a fixed setup fee of $12,000 per annum for secure gateway provision. The Multi-Cloud controller agent is billed at a baseline rate of $150 per user per month. However, recognizing the scale of Vertex Industries, enterprise volume tiers exceeding 500 active directories automatically qualify for a custom 20% discount on runtime configurations. This volume discount successfully reduces the ongoing licensing overhead to $120 per user per month, ensuring a highly cost-effective total cost of",
+        "type": "Compliance Matrix",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-5",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "6",
+        "title": "Pricing & Commercial Terms",
+        "content": "# Pricing & Commercial Terms\n\nThis section outlines the comprehensive commercial framework and investment structure for the deployment of the ProposalAI Security Enterprise Gateway Enterprise-V2 and Multi-Cloud controller agents, customized for Vertex Industries under RFP-1781673819948. The financial model is structured to provide maximum transparency, aligning initial setup costs and ongoing subscription fees with the rapid, multi-phased deployment blueprint.\n\n## 1. Core Subscription and Licensing Model\n\nThe commercial model comprises a fixed annual setup fee combined with a scalable, per-user monthly subscription. The standard core corporate subscription requires a fixed setup fee of $12,000 per annum, which covers the provisioning of the secure gateway. This gateway features dual-shield JWT verification endpoints, native integration with Azure AD, Okta, Ping Identity, SAML 2.0, and OIDC systems, alongside an active cluster load balancer that delivers auto-scale triggers maintaining 99.999% high availability.\n\nFor user licensing, the Multi-Cloud controller agent is billed at a standard rate of $150 per user per month. However, to support enterprise-scale operations, volume discounting is automatically applied. Enterprise volume tiers exceeding 500 active directories receive a custom 20% discount on runtime configurations, reducing the licensing overhead to $120 per user per month.\n\n### Table 1: Commercial Pricing Matrix\n\n| Fee Component | Billing Frequency | Standard Rate | Enterprise Tier Rate (>500 Active Directories) |\n| :--- | :--- | :--- | :--- |\n| **Secure Gateway Provisioning Fee** | Annual (Fixed) | $12,000 / annum | $12,000 / annum |\n| **Multi-Cloud Controller Agent License** | Monthly (Per User) | $150 / user / month | $120 / user / month (20% Discount Applied) |\n\n## 2. Implementation and Deployment Milestones\n\nThe commercial onboarding and technical enablement are executed in alignment with our Standard Rapid Transition & Multi-Phased Deployment Blueprint. This structured 30-day pipeline ensures that Vertex Industries achieves operational readiness and compliance validation rapidly, minimizing time-to-value.\n\n### Table 2: Deployment and Commercial Milestones\n\n| Phase | Timeline | Key Deliverables & Technical Focus | Commercial Alignment |\n| :--- | :--- | :--- | :--- |\n| **Phase 1** | Days 1–7 | Enterprise Environment Discovery and architecture mapping. | Initiation of annual gateway provisioning. |\n| **Phase 2** | Days 8–15 | Integration of Active Gateways and SAML endpoints. | Configuration of identity provider integrations. |\n| **Phase 3** | Days 16–22 | Core Compliance dry run and comprehensive penetration testing. | Validation of dual-shield JWT verification. |\n| **Phase 4** | Days 23–30 | Production Go-Live and Staff Enablement Training courses. | Transition to active monthly subscription billing. |\n\nAll pricing is quoted in USD and excludes applicable local taxes. The annual gateway provisioning fee is invoiced upon contract execution, while the monthly user licensing fees commence upon the successful completion of Phase 4 (Production Go-Live).",
+        "type": "Pricing & Commercial Terms",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-6",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "7",
+        "title": "Implementation Plan",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 6. Implementation Plan & Milestones\n\nWe guarantee client success in exactly **30 business days** post contract ratification through 4 sequential deployment stages:\n\n*   **Checkpoint A (Days 1-7)**: Operational Discovery and Environment Pen-Tests.\n*   **Checkpoint B (Days 8-15)**: Active SAML Gateways Integration & Active Directory syncs.\n*   **Checkpoint C (Days 16-22)**: Dry run auditing & mock outage tests.\n*   **Checkpoint D (Days 23-30)**: Go-Live authorization, Staff training, and Premium SLA handover.",
+        "type": "Implementation Plan",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-7",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "8",
+        "title": "Team & Credentials",
+        "content": "# Team & Credentials\n\nTo ensure the seamless execution of RFP-1781673819948 for Vertex Industries, our organization has assembled an elite, multi-disciplinary deployment and support team. This team is comprised of certified enterprise architects, security engineers, and dedicated technical account managers who possess deep domain expertise in executing rapid transitions and managing high-availability multi-cloud environments. Every team member assigned to this engagement is fully credentialed to deliver our Standard Rapid Transition & Multi-Phased Deployment Blueprint, ensuring that Vertex Industries transitions from initial environment discovery to production go-live within a strict 30-day window.\n\n### Professional Resource Allocation Matrix\n\nThe following table outlines the key personnel roles, their primary credentials, and their direct alignment with the four strategic checkpoints of our deployment pipeline:\n\n| Role | Key Credentials & Certifications | Primary Deployment Phase Alignment | Ongoing Support Responsibility |\n| :--- | :--- | :--- | :--- |\n| **Lead Enterprise Architect** | CCIE, AWS Certified Solutions Architect Professional, CISSP | Phase 1 (Days 1-7): Enterprise Environment Discovery | Architectural oversight and high-level design validation |\n| **Integration & Gateway Specialist** | Certified Kubernetes Administrator (CKA), SAML/OIDC Integration Expert | Phase 2 (Days 8-15): Integration of Active Gateways & SAML Endpoints | Gateway optimization and multi-cloud controller agent tuning |\n| **Senior Security & Compliance Engineer** | CEH (Certified Ethical Hacker), CISA, CompTIA Security+ | Phase 3 (Days 16-22): Core Compliance Dry Run & Pen-Tests | Continuous vulnerability management and compliance auditing |\n| **Dedicated Technical Liaison (Gold-Shield)** | ITIL Master, Certified Support Manager, 10+ Years Enterprise Support | Phase 4 (Days 23-30): Production Go-Live & Staff Enablement | Tier-1 direct technical liaison, managing <2 hour hot-fix response |\n\n### Engineering Service-Level Commitments\n\nOur engineering team is backed by the rigorous standards of our Gold-Shield Support Plan. Vertex Industries will be assigned a dedicated Tier-1 direct technical liaison who acts as the primary point of contact for all operational needs. This liaison is supported by an engineering team operating under a strict service-level agreement that guarantees immediate hot-fixes in under 2 hours. Furthermore, our infrastructure team maintains a 99.995% uptime guarantee, achieved through the deployment of automatic failover fallback nodes and localized redundancy configurations across redundant zones.\n\n### Financial and Account Management Credentials\n\nTo support the commercial aspects of this partnership, our dedicated account management team will oversee the implementation of the 2026 Core Subscription Matrix. This team",
+        "type": "Team & Credentials",
+        "status": "completed"
+      },
+      {
+        "id": "sec-p-1781673825092-8",
+        "proposalId": "p-1781673825092",
+        "sectionNumber": "9",
+        "title": "Appendices",
+        "content": "> ⚠️ **Gemini API Quota Exceeded**: Your connected API key has exceeded its daily or minutes rate limits. To keep you fully productive, the system has automatically loaded our pre-designed, high-fidelity compliance blueprint text below. You can update this live using your mock editor, or paste a private, unlimited key in the AI Studio Secrets menu to generate a custom draft!\n\n### 8. Appendices & Service Level Agreements\n\nThis appendix contains detailed metrics tables, technical definitions, environment configuration rules, failover protocols, and premium server monitoring frameworks. We guarantee an uptime of 99.99% for all active nodes, backed by financial credits in the event of service disruption.",
+        "type": "Appendices",
+        "status": "completed"
+      }
+    ],
+    "complianceResults": [
+      {
+        "id": "comp-p-1781673825092-0",
+        "requirementCode": "REQ-TEC-01",
+        "requirementText": "The proposed solution must support seamless integration with standard enterprise ERP systems via secure RESTful APIs.",
+        "isMandatory": true,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      },
+      {
+        "id": "comp-p-1781673825092-1",
+        "requirementCode": "REQ-SEC-01",
+        "requirementText": "The vendor must demonstrate compliance with SOC 2 Type II certification standards and provide the latest audit report.",
+        "isMandatory": true,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      },
+      {
+        "id": "comp-p-1781673825092-2",
+        "requirementCode": "REQ-PRI-01",
+        "requirementText": "Pricing proposals must be fully transparent, detailing all licensing, implementation, maintenance, and support fees over a 3-year total cost of ownership (TCO).",
+        "isMandatory": true,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      },
+      {
+        "id": "comp-p-1781673825092-3",
+        "requirementCode": "REQ-IMP-01",
+        "requirementText": "The implementation phase, including data migration and user acceptance testing (UAT), must be completed within 6 months of contract signing.",
+        "isMandatory": true,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      },
+      {
+        "id": "comp-p-1781673825092-4",
+        "requirementCode": "REQ-GEN-01",
+        "requirementText": "The vendor must provide 24/7 technical support with a guaranteed Service Level Agreement (SLA) response time of under 2 hours for critical issues.",
+        "isMandatory": false,
+        "status": "Compliant",
+        "responseExcerpt": "Our security enterprise gateway (V-2) incorporates native AD FS and SAML 2.0 endpoints supporting Okta and Azure AD directory setups, guaranteeing dynamic SLA thresholds exceeding 99.9% uptime.",
+        "gapAnalysis": "Fully validated by certified QA teams, meeting all functional criteria standardly."
+      }
+    ],
+    "pricingSummary": {
+      "oneTimeFee": 25000,
+      "recurringFee": 2400,
+      "billingCycle": "Yearly",
+      "currency": "USD"
+    }
+  }
+]

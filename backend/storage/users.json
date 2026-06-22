@@ -1,0 +1,16 @@
+[
+  {
+    "id": "u-1",
+    "email": "demo@proposal.ai",
+    "password": "demo",
+    "name": "Manish",
+    "role": "Sales Rep"
+  },
+  {
+    "id": "u-2",
+    "email": "manager@proposal.ai",
+    "password": "demo",
+    "name": "David Chen",
+    "role": "Sales Manager"
+  }
+]

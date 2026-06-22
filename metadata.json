@@ -1,0 +1,6 @@
+{
+  "name": "ProposalAI",
+  "description": "AI-powered Sales Proposal Assistant to analyze RFPs, extract requirements, generate proposals, and maintain compliance, backed by a semantic RAG search vector engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
